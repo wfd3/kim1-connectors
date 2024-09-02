@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KIM1_Connectors")(type "KiCad")(uri "${KIPRJMOD}/kim1-connectors.pretty")(options "")(descr "Connectors footprints specific to the KIM-1"))
+)
